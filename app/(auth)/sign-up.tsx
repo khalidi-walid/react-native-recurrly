@@ -1,10 +1,9 @@
-import { View, Text } from 'react-native';
-
+import { View, Text } from "react-native";
 const SignUp = () => {
   return (
     <View>
       <Text>Sign Up</Text>
-     </View>
+    </View>
   );
-}
+};
 export default SignUp;

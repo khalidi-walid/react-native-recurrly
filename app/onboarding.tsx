@@ -1,9 +1,9 @@
-import { View, Text } from 'react-native';
+import { View, Text } from "react-native";
 const Onboarding = () => {
   return (
     <View>
       <Text>Onboarding</Text>
-     </View>
+    </View>
   );
-}
+};
 export default Onboarding;
